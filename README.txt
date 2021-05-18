@@ -1,3 +1,18 @@
+# TP Bases du Génie Logiciel -- Makefile & Tests
+
+Le but de ce TP est de mettre en pratique les notions sur les Makefile et les tests unitaires dans un projet logiciel simple.
+En fin de TP si nous avons le temps nous pourrons utiliser des outils de couverture de code, et réaliser des mesures de performance.
+
+## Prérequis
+
+Pour faire ce TP vous aurez besoin d'installer
+
+- La bibliothèque [cmocka](https://cmocka.org/)
+- Le compilateur `gcc` ou `clang`
+- (optionnel) L'outil `gcov`
+
+
+
 Question 2
 
 La fonction testée est :static int parse_args(int argc, char * argv[])
